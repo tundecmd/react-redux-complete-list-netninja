@@ -1,0 +1,34 @@
+                What is React?
+
+--- JavaScript library created by facebook
+
+--- Also used by Netflix and Instagram
+
+--- Used to create JS-driven dynamic web apps
+
+--- In that regard, can be compared to Angular and Vue
+
+                What is Redux?
+
+--- A later on top of React 
+
+--- Helps with the management of our app 
+
+    --- data in the app 
+    --- UI state of the app 
+    
+--- Learn this in the 2nd half of the playlist 
+
+                What we'll learn (hopefully)
+
+--- React basics 
+
+    -- components, events, templates, props and forms 
+
+--- React Router 
+
+    -- routes, route parameters, redirects 
+
+--- Redux 
+
+    -- stores, actions and reducers 
