@@ -1,0 +1,13 @@
+                    Componene State 
+
+--- Javascript object 
+
+--- Describe the current state of the component 
+
+    -- data 
+    -- UI state 
+
+--- The state of the component can be updated over time 
+
+    -- a modal could open 
+    -- the data we output could change 
